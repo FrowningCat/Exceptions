@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0febd0e9-15a4-40f9-a44c-12e707d1f99b" name="Changes" comment="add_homework1">
+    <list default="true" id="0febd0e9-15a4-40f9-a44c-12e707d1f99b" name="Changes" comment="add_homework2">
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/DataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/InputData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/ParsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/SexException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/WriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_3/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson_2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vsavi/Downloads/Java_Exception_HomeWork_003-master/Java_Exception_HomeWork_003-master&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +51,9 @@
       <option name="presentableId" value="Default" />
       <updated>1681034562178</updated>
       <workItem from="1681034563391" duration="3355000" />
-      <workItem from="1681277941725" duration="1988000" />
+      <workItem from="1681277941725" duration="2992000" />
+      <workItem from="1681635171022" duration="2620000" />
+      <workItem from="1681901834631" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="add_Exceptions">
       <created>1681034638431</created>
@@ -61,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681047114969</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add_homework2">
+      <created>1681280202929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681280202929</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add_Exceptions" />
     <MESSAGE value="add_homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add_homework1" />
+    <MESSAGE value="add_homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add_homework2" />
   </component>
 </project>
